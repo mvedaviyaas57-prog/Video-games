@@ -4,3 +4,5 @@ this was my video game website it attract many of the younger generation ,I cont
 - Minecraft
 - GTA V
 - PUBG
+## Conclusion changes.
+Video games provide entertainment and connect people around the world
